@@ -15,7 +15,7 @@ list2=[234]
 tem=(list1>list2)
 print(tem)
 '''False'''
-#只对比第一个元素
+#只对比第一个元素  远程仓库
 list3=[123,456]
 list4=[456,123]
 print(list3>list4)
